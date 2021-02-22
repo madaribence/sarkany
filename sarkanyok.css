@@ -18,6 +18,7 @@ a:hover {
     float: right;
 }
 body {
+    text-align: justify;
     background-image: url("hatterkep.jpg");
 }
 p {
